@@ -1,10 +1,10 @@
 # acclaimed-videogames
-A list of the best videogames according to "best-of" lists from reliable sources. The results are produced by running a Condorcet election using best-of lists as ballots.
+A list of the best videogames according to "best-of" lists from reliable sources. The results are produced by running a Condorcet election using best-of lists as ballots. The ranking uses Black's Procedure, meaning it is ordered by using the Condorcet method, then the Borda method when there is a tie.
 
 The CSV has columns for:
 
 - game
-- Black's method rank
+- rank
 - Condorcet rank
 - Borda rank
 - count of listings
